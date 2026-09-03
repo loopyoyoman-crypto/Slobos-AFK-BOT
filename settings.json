@@ -8,7 +8,7 @@
   "server": {
     "ip": "9999DZ.aternos.me",
     "port": 26859,
-    "version": "1.21.1"
+    "version": "1.16.5"
   },
   "position": {
     "enabled": true,
